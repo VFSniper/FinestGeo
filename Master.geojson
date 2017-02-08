@@ -738,7 +738,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<strong>Central Defense: The Fighting 5th</strong><p><a href=\"https://www.facebook.com/FinestCDFF\" target=\"_blank\" title=\"Opens in a new window\">>Visit them on Facebook</a>"
+        "description": "<strong>Central Defense: The Fighting 5th</strong><p><a href=\"https://www.facebook.com/FinestCDFF\" target=\"_blank\" title=\"Opens in a new window\">Visit them on Facebook</a></p>"
       },
       "geometry": {
         "type": "GeometryCollection",
