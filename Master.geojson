@@ -1850,7 +1850,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<strong>Cobra 13th Civil Defense Mobile Infantry Division</strong><p><a href=\"https://www.facebook.com/TheCivilDefense13thMobileInfantryDivision\" target=\"_blank\" title=\"Opens in a new window\">>Visit them on Facebook</a>"
+        "description": "<strong>Cobra 13th Civil Defense Mobile Infantry Division</strong><p><a href=\"https://www.facebook.com/TheCivilDefense13thMobileInfantryDivision\" target=\"_blank\" title=\"Opens in a new window\">Visit them on Facebook</a></p>"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -2146,7 +2146,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<strong>Capital Defense Regiment</strong><p><a href=\"https://www.facebook.com/Capital-Defense-Regiment-1394779680783508/\" target=\"_blank\" title=\"Opens in a new window\">>Visit them on Facebook</a>"
+        "description": "<strong>Capital Defense Regiment</strong><p><a href=\"https://www.facebook.com/Capital-Defense-Regiment-1394779680783508/\" target=\"_blank\" title=\"Opens in a new window\">Visit them on Facebook</a></p>"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -2694,7 +2694,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<strong>31st Carrier Assault Brigade</strong><p><a href=\"https://www.facebook.com/31stCAB\" target=\"_blank\" title=\"Opens in a new window\">>Visit them on Facebook</a>"
+        "description": "<strong>31st Carrier Assault Brigade</strong><p><a href=\"https://www.facebook.com/31stCAB\" target=\"_blank\" title=\"Opens in a new window\">Visit them on Facebook</a></p>"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -2920,7 +2920,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<strong>Task Force 27</strong><p><a href=\"https://www.facebook.com/taskforce27\" target=\"_blank\" title=\"Opens in a new window\">>Visit them on Facebook</a>"
+        "description": "<strong>Task Force 27</strong><p><a href=\"https://www.facebook.com/taskforce27\" target=\"_blank\" title=\"Opens in a new window\">Visit them on Facebook</a></p>"
       },
       "geometry": {
         "type": "Polygon",
@@ -3093,7 +3093,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<strong>The Southern Command</strong><p><a href=\"https://www.facebook.com/thesoutherncommand\" target=\"_blank\" title=\"Opens in a new window\">>Visit them on Facebook</a>"
+        "description": "<strong>The Southern Command</strong><p><a href=\"https://www.facebook.com/thesoutherncommand\" target=\"_blank\" title=\"Opens in a new window\">Visit them on Facebook</a></p>"
       },
       "geometry": {
         "type": "Polygon",
@@ -3286,7 +3286,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<strong>Volunteer Assault Force</strong><p><a href=\"https://www.facebook.com/Volunteer-Assault-Force-1704463666483674\" target=\"_blank\" title=\"Opens in a new window\">>Visit them on Facebook</a>"
+        "description": "<strong>Volunteer Assault Force</strong><p><a href=\"https://www.facebook.com/Volunteer-Assault-Force-1704463666483674\" target=\"_blank\" title=\"Opens in a new window\">Visit them on Facebook</a></p>"
       },
       "geometry": {
         "type": "Polygon",
