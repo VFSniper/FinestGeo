@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<strong>602nd Desert Corps</strong><p><a href=\"https://www.facebook.com/602ndDesertCorps\" target=\"_blank\" title=\"Opens in a new window\">>Visit them on Facebook</a>"
+        "description": "<strong>602nd Desert Corps</strong><p><a href=\"https://www.facebook.com/602ndDesertCorps\" target=\"_blank\" title=\"Opens in a new window\"Visit them on Facebook</a>"
       },
       "geometry": {
         "type": "Polygon",
