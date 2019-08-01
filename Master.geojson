@@ -390,7 +390,6 @@
         "description": "<strong>234th Tigerhawkss</strong><p><a href=\"https://www.facebook.com/Tigerhawks\" target=\"_blank\" title=\"Opens in a new window\">Visit them on Facebook</a></p>"
       },
       "geometry": {
-        "type": "GeometryCollection",
         "geometries": [
           {
             "type": "MultiPolygon",
@@ -665,7 +664,8 @@
               ]
             ]
           }
-        ]
+        ],
+        "type": "GeometryCollection"
       }
     },
     {
@@ -674,7 +674,6 @@
         "description": "<strong>Central Defense: The Fighting 5th</strong><p><a href=\"https://www.facebook.com/FinestCDFF\" target=\"_blank\" title=\"Opens in a new window\">Visit them on Facebook</a></p>"
       },
       "geometry": {
-        "type": "GeometryCollection",
         "geometries": [
           {
             "type": "MultiPolygon",
@@ -1345,7 +1344,8 @@
               ]
             ]
           }
-        ]
+        ],
+        "type": "GeometryCollection"
       }
     },
     {
@@ -1354,7 +1354,6 @@
         "description": "<strong>Cobra 13th Civil Defense Mobile Infantry Division</strong><p><a href=\"https://www.facebook.com/TheCivilDefense13thMobileInfantryDivision\" target=\"_blank\" title=\"Opens in a new window\">Visit them on Facebook</a></p>"
       },
       "geometry": {
-        "type": "GeometryCollection",
         "geometries": [
           {
             "type": "MultiPolygon",
@@ -1641,7 +1640,8 @@
               ]
             ]
           }
-        ]
+        ],
+        "type": "GeometryCollection"
       }
     },
     {
@@ -1650,7 +1650,6 @@
         "description": "<strong>Capital Defense Regiment</strong><p><a href=\"https://www.facebook.com/Capital-Defense-Regiment-1394779680783508/\" target=\"_blank\" title=\"Opens in a new window\">Visit them on Facebook</a></p>"
       },
       "geometry": {
-        "type": "GeometryCollection",
         "geometries": [
           {
             "type": "MultiPolygon",
@@ -22149,7 +22148,8 @@
               ]
             ]
           }
-        ]
+        ],
+        "type": "GeometryCollection"
       }
     },
     {
@@ -22158,7 +22158,6 @@
         "description": "<strong>31st Carrier Assault Brigade</strong><p><a href=\"https://www.facebook.com/31stCAB\" target=\"_blank\" title=\"Opens in a new window\">Visit them on Facebook</a></p>"
       },
       "geometry": {
-        "type": "GeometryCollection",
         "geometries": [
           {
             "type": "Polygon",
@@ -22375,7 +22374,8 @@
               ]
             ]
           }
-        ]
+        ],
+        "type": "GeometryCollection"
       }
     },
     {
@@ -23469,7 +23469,12 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<strong>The Finest SoCal Coastal Defense Command</strong><p><a href=\"https://www.facebook.com/TheFinestSoCalCDC\" target=\"_blank\" title=\"Opens in a new window\">Visit them on Facebook</a></p>"
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "description": "<strong>SoCal Coastal Defense Command</strong><p><a href=\"https://www.facebook.com/TheFinestSoCalCDC\" target=\"_blank\" title=\"Opens in a new window\">Visit them on Facebook</a></p>"
       },
       "geometry": {
         "type": "Polygon",
